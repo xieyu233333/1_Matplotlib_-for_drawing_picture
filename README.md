@@ -1,7 +1,9 @@
 This project is a tutorial for creating plots using Matplotlib in academic papers, including the generation of robot trajectory images and line charts. It comes with accompanying code and test data for practical use. Additionally, we provide several PowerPoint documents demonstrating how to create robot motion diagrams using PPT. If you find this document helpful, please give it a star or cite our paper. Wishing you success in your paper submissions!
+
 本项目是用于论文中matplotlib绘图的教程，包括绘制机器人轨迹图片和折线图，与程序、测试数据配套使用。此外我们还提供了几个绘制机器人运动示意图的PPT文档。如果您觉得本文档有帮助，请您给个星星或引用我们的论文。希望您论文录用顺利！
 
 Each tutorial and code snippet included has been personally tested by me, and I have added my evaluations in parentheses "()". It is worth noting that some tutorials may no longer be accessible due to the original authors removing their content. However, readers can generally find reprints of these tutorials through search engines. If a reprint cannot be found, one can seek detailed explanations from ChatGPT or DeepSeek. This tutorial is provided in both Chinese and English.
+
 其中每个教程和代码都经过本人的测试，并在“()”中附上了本人对教程的评价。值得注意的是，其中部分教程因为原作者删除了文章，可能无法查阅。但读者一般可以通过搜索引擎，找到教程的转载。如果未找到转载，可以求助chatGPT或deepseek给出详细的介绍。本教程给出了中英文双语。
 
 <p align="center" style="display: flex; justify-content: center;">
