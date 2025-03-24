@@ -5,9 +5,9 @@ Each tutorial and code snippet included has been personally tested by me, and I 
 其中每个教程和代码都经过本人的测试，并在“()”中附上了本人对教程的评价。值得注意的是，其中部分教程因为原作者删除了文章，可能无法查阅。但读者一般可以通过搜索引擎，找到教程的转载。如果未找到转载，可以求助chatGPT或deepseek给出详细的介绍。本教程给出了中英文双语。
 
 <p align="center" style="display: flex; justify-content: center;">
-    <img src="./PPT_for_picture/fig2.pdf" alt="drawing" width="350"/>
-    <img src="./PPT_for_picture/fig3.pdf" alt="drawing" width="350"/>
-    <img src="./PPT_for_picture/fig7.pdf" alt="drawing" width="350"/>
+    <img src="./PPT_for_picture/fig2.png" alt="drawing" width="350"/>
+    <img src="./PPT_for_picture/fig3.png" alt="drawing" width="350"/>
+    <img src="./PPT_for_picture/fig7.png" alt="drawing" width="350"/>
     <img src="./iros_test3_1.png" alt="drawing" width="350"/>
 </p>
 
